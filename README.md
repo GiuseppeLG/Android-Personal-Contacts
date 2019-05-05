@@ -28,10 +28,10 @@ This app is developed in Java, it isn't designed to go to the Play Store, but it
 
 ## Usage
 So, you can try it with Android simulator or with any device.
-
-![capture_1](https://user-images.githubusercontent.com/14968550/57195471-4f01d680-6f53-11e9-9fc1-fcd3d1812ad7.jpg)
-
-  ![capture_2](https://user-images.githubusercontent.com/14968550/57195473-59bc6b80-6f53-11e9-9d97-de85d6b212ae.jpg)
+<p align="left">
+  <img src="https://github.com/GiuseppeLG/Android-Personal-Contacts/blob/master/capture_1.jpg" width="300" height="400" title="hover text">
+  <img src="https://github.com/GiuseppeLG/Android-Personal-Contacts/blob/master/capture_2.jpg" width="300" height="400" title="hover text">
+</p>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
